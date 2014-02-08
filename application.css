@@ -47,6 +47,10 @@ a {
   color: #B88AE6;
 }
 
+a:hover {
+  color: #5CE6E6;
+}
+
 .subtitle {
   font-family: 'Droid Sans Mono', sans-serif;
   color: white;
@@ -87,18 +91,23 @@ a {
 }
 
 .blue {
-  color: lightblue;
+  color: #5CE6E6;
   /*get actual color*/
 }
 
 h1 {
-font-family: 'Droid Sans Mono', sans-serif;
+  font-family: 'Droid Sans Mono', sans-serif;
 }
 
 h2 {
-font-family: 'Droid Sans Mono', sans-serif;
+  font-family: 'Droid Sans Mono', sans-serif;
 }
 
 p {
-font-family: 'Droid Sans Mono', sans-serif;
+  font-family: 'Droid Sans Mono', sans-serif;
+}
+
+footer {
+  font-family: 'Droid Sans Mono', sans-serif;
+  padding: 20px;
 }
