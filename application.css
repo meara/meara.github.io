@@ -1,6 +1,8 @@
 .rect1 {
   /*background-color: #E1F8F8;*/
   /*background-color : #F0F7F7;*/
+  color: white;
+  background-color: #272822;
   width: 100%;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -9,20 +11,16 @@
 .rect2 {
   /*background-color: #F7F7F7;*/
   /*border-top: solid lightgray 2px;*/
-  /*background-color: darkgray;*/
+  color: white;
+  background-color: #272822;
   width: 100%;
   padding-top: 20px;
   padding-bottom: 20px;
 }
 
-.photo {
-  max-height: 320px;
-  display: block;
-  margin: auto;
-}
-
 .card {
-  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .preview {
@@ -48,18 +46,51 @@
 
 a {
   text-decoration: none;
+  color: #B88AE6;
+  font-family: 'Droid Sans Mono', sans-serif;
 }
 
 .subtitle {
+  font-family: 'Droid Sans Mono', sans-serif;
+  color: white;
   margin: 0px;
   margin-top: 5px;
 }
 
 .title {
+  font-family: 'Droid Sans Mono', sans-serif;
+  color: white;
   margin: 0px;
 }
 
 .header {
+  font-family: 'Droid Sans Mono', sans-serif;
+  color: white;
   padding: 5px;
   /*margin: 0px;*/
+}
+
+.red {
+  color: #F92772 ;
+}
+
+.orange {
+  color: #FD9720;
+}
+
+.green {
+  color: #A6E22D;
+}
+
+.yellow {
+  color: #E6DB74;
+}
+
+.purple {
+  color: #9966FF;
+  /*get actual color*/
+}
+
+.blue {
+  color: lightblue;
 }
