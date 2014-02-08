@@ -8,6 +8,8 @@
     position:relative;
     width:500%; /* Number of panes * 100% */
     overflow:hidden; /* This is used solely to clear floats, it does not add functionality. */
+    margin: 0;
+    padding: 0;
 
     -webkit-animation: slide 30s infinite; /* Safari 4+ */
     -moz-animation:    slide 30s infinite; /* Fx 5+ */
