@@ -1,28 +1,23 @@
+body {
+  background-color: #272822;
+  color: white;
+}
+
 .rect1 {
-  /*background-color: #E1F8F8;*/
-  /*background-color : #F0F7F7;*/
   width: 100%;
   padding-top: 20px;
   padding-bottom: 20px;
 }
 
 .rect2 {
-  /*background-color: #F7F7F7;*/
-  /*border-top: solid lightgray 2px;*/
-  /*background-color: darkgray;*/
   width: 100%;
   padding-top: 20px;
   padding-bottom: 20px;
 }
 
-.photo {
-  max-height: 320px;
-  display: block;
-  margin: auto;
-}
-
 .card {
-  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .preview {
@@ -47,19 +42,63 @@
 }
 
 a {
+  font-family: 'Droid Sans Mono', sans-serif;
   text-decoration: none;
+  color: #B88AE6;
 }
 
 .subtitle {
+  font-family: 'Droid Sans Mono', sans-serif;
+  color: white;
   margin: 0px;
   margin-top: 5px;
 }
 
 .title {
+  font-family: 'Droid Sans Mono', sans-serif;
+  color: white;
   margin: 0px;
 }
 
 .header {
+  font-family: 'Droid Sans Mono', sans-serif;
   padding: 5px;
-  /*margin: 0px;*/
+}
+
+.red {
+  color: #F92772 ;
+}
+
+.orange {
+  color: #FD9720;
+}
+
+.green {
+  color: #A6E22D;
+}
+
+.yellow {
+  color: #E6DB74;
+}
+
+.purple {
+  color: #B88AE6;
+  /*get actual color*/
+}
+
+.blue {
+  color: lightblue;
+  /*get actual color*/
+}
+
+h1 {
+font-family: 'Droid Sans Mono', sans-serif;
+}
+
+h2 {
+font-family: 'Droid Sans Mono', sans-serif;
+}
+
+p {
+font-family: 'Droid Sans Mono', sans-serif;
 }
