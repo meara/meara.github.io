@@ -1,18 +1,15 @@
-.rect1 {
-  /*background-color: #E1F8F8;*/
-  /*background-color : #F0F7F7;*/
-  color: white;
+body {
   background-color: #272822;
+  color: white;
+}
+
+.rect1 {
   width: 100%;
   padding-top: 20px;
   padding-bottom: 20px;
 }
 
 .rect2 {
-  /*background-color: #F7F7F7;*/
-  /*border-top: solid lightgray 2px;*/
-  color: white;
-  background-color: #272822;
   width: 100%;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -45,9 +42,9 @@
 }
 
 a {
+  font-family: 'Droid Sans Mono', sans-serif;
   text-decoration: none;
   color: #B88AE6;
-  font-family: 'Droid Sans Mono', sans-serif;
 }
 
 .subtitle {
@@ -65,9 +62,7 @@ a {
 
 .header {
   font-family: 'Droid Sans Mono', sans-serif;
-  color: white;
   padding: 5px;
-  /*margin: 0px;*/
 }
 
 .red {
@@ -87,10 +82,23 @@ a {
 }
 
 .purple {
-  color: #9966FF;
+  color: #B88AE6;
   /*get actual color*/
 }
 
 .blue {
   color: lightblue;
+  /*get actual color*/
+}
+
+h1 {
+font-family: 'Droid Sans Mono', sans-serif;
+}
+
+h2 {
+font-family: 'Droid Sans Mono', sans-serif;
+}
+
+p {
+font-family: 'Droid Sans Mono', sans-serif;
 }
