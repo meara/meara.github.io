@@ -70,21 +70,20 @@ a:hover {
   color: #69E6FB;
 }
 
+.title {
+  color: white;
+  margin: 0px;
+  font-size: 36px;
+}
+
 .subtitle {
-  font-family: 'Droid Sans Mono', sans-serif;
   color: white;
   margin: 0px;
   margin-top: 5px;
 }
 
-.title {
-  font-family: 'Droid Sans Mono', sans-serif;
-  color: white;
-  margin: 0px;
-}
-
 .header {
-  font-family: 'Droid Sans Mono', sans-serif;
+  margin: 0;
   padding: 5px;
   padding-left: 20px;
 }
@@ -115,10 +114,9 @@ a:hover {
 
 h1 {
   font-family: 'Droid Sans Mono', sans-serif;
-  font-size: 36px;
 }
 
-h2 {
+h3 {
   font-family: 'Droid Sans Mono', sans-serif;
   font-size: 20px;
 }
@@ -130,5 +128,5 @@ p {
 
 footer {
   font-family: 'Droid Sans Mono', sans-serif;
-  padding: 20px;
+  padding: 25px;
 }
