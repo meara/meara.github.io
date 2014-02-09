@@ -44,11 +44,11 @@ body {
 a {
   font-family: 'Droid Sans Mono', sans-serif;
   text-decoration: none;
-  color: #B88AE6;
+  color: #B28DFC;
 }
 
 a:hover {
-  color: #5CE6E6;
+  color: #69E6FB;
 }
 
 .subtitle {
@@ -86,13 +86,11 @@ a:hover {
 }
 
 .purple {
-  color: #B88AE6;
-  /*get actual color*/
+  color: #B28DFC;
 }
 
 .blue {
-  color: #5CE6E6;
-  /*get actual color*/
+  color: #69E6FB;
 }
 
 h1 {
