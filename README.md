@@ -1,3 +1,3 @@
 personal_website
 ================
-charnetzki.com
+http://charnetzki.com/
