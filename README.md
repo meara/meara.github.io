@@ -1,3 +1,1 @@
-personal_website
-================
-http://charnetzki.com/
+http://meara.github.io
