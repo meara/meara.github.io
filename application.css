@@ -3,30 +3,10 @@ body {
   color: white;
 }
 
-.rect1 {
-  width: 100%;
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-
-.rect2 {
-  width: 100%;
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-
 .card {
   padding-left: 25px;
   padding-right: 25px;
   margin-bottom: 30px;
-}
-
-.indent {
-  padding-left: 25px;
-}
-
-.indent2 {
-  padding-left: 50px;
 }
 
 .smush {
@@ -38,16 +18,12 @@ body {
   font-size: 21px;
 }
 
-.preview {
-  padding: 20px;
+.indent {
+  padding-left: 25px;
 }
 
-.webimage {
-  border: solid lightgray 1px;
-}
-
-.note {
-  padding: 20px;
+.indent2 {
+  padding-left: 50px;
 }
 
 .inline-list {
@@ -68,24 +44,6 @@ a {
 
 a:hover {
   color: #69E6FB;
-}
-
-.title {
-  color: white;
-  margin: 0px;
-  font-size: 36px;
-}
-
-.subtitle {
-  color: white;
-  margin: 0px;
-  margin-top: 5px;
-}
-
-.header {
-  margin: 0;
-  padding: 5px;
-  padding-left: 20px;
 }
 
 .red {
