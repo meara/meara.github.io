@@ -9,15 +9,6 @@ body {
   margin-bottom: 30px;
 }
 
-.smush {
-  margin-bottom: 30px;
-}
-
-.smush p {
-  margin: 0px;
-  font-size: 21px;
-}
-
 .indent {
   padding-left: 25px;
 }
@@ -76,15 +67,10 @@ h1 {
 
 h3 {
   font-family: 'Droid Sans Mono', sans-serif;
-  font-size: 20px;
-}
-
-p {
-  font-family: 'Droid Sans Mono', sans-serif;
   font-size: 18px;
 }
 
-footer {
+.regular-text {
   font-family: 'Droid Sans Mono', sans-serif;
-  padding: 25px;
+  font-size: 20px;
 }
